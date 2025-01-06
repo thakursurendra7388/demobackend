@@ -1,2 +1,3 @@
-# demobackend
-demobackend
+# .env
+.env
+node_modules/
